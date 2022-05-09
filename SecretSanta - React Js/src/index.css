@@ -1,0 +1,157 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  /* background-image: url("./Images/back1.jpg");
+  background-repeat: no-repeat;
+  background-size: 150%; */
+}
+
+form{
+  margin:50px 0px; padding:0px;
+  text-align:center;
+  align:center;
+}
+
+d1{
+  background-color: aquamarine;
+}
+/* .flex {
+  display: flex;
+}
+
+.flex > * {
+  flex: 1;
+} */
+
+.bg-theme {
+  background-color: black;
+  width:100%;
+  height: 10%; 
+
+}
+
+h1{
+  text-align: center
+}
+
+header{
+  /* font-size: 20px; */
+  /* margin-bottom: -10px; */
+}
+.search-container{
+ float: right;
+padding-right: 80px;
+}
+
+.footer{
+  position: fixed;
+ bottom: 0;
+ width: 100%;
+ height: 100px;
+ background-color: black;
+ color: white;
+} 
+.header{
+  top: 0;
+  position: sticky;
+ 
+}
+
+.navbar
+{
+  position: sticky;
+  top: 0;
+}
+
+.fa-twitter {
+  padding-left: 50%;
+}
+.fa-facebook{
+  padding-left: 25px;
+}
+.fa-linkedin{
+  padding-left: 25px;
+}
+.fa-youtube{
+  padding-left: 25px;
+}
+
+.p1{
+  padding-left: 47%;
+}
+
+/* .Fcolor{
+  background-color:black;
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: red;
+  color: white;
+  text-align: center;
+
+} */
+
+FormControl{
+  border: 2px solid black;
+}
+
+form{
+  margin:50px 0px; padding:0px;
+  text-align:center;
+  align:center;
+
+
+}
+input{
+  border-radius: 5px;
+  
+}
+
+.nav2{
+  padding-right: 30px;
+  font-size: 20px;
+  
+}
+.abtimg
+{
+float: right;
+}
+.logoimg{
+margin-bottom: 20px;
+}
+
+.nav1{
+margin-top:-25px;
+}
+.nav3{
+font-size: 20px;
+padding-right: 30px;
+}
+
+.glyphicon-star-empty {
+color:orange;
+}
+
+h1{
+color: lightgreen
+}
+.p5{
+font-size: 20px;
+color: black
+}
+.head{
+color: brown;
+}
+.Invalid{
+border-color: red;
+background-color: rgb(250, 193, 193);;    
+}
+
+.err-msg{
+color:red;
+}
